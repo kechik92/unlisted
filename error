@@ -151,6 +151,51 @@ http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
 
  
  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="LIVE:CHINA" tvg-id="TVBJade.hk" tvg-name="TVBJade.hk", TVB Jade
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://edge6a.v2h-cdn.com:443/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w1547988809_b3564000_sltha.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="LIVE:CHINA" tvg-id="" tvg-name="", Channel U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtzRw5Mp/NHK-World.png" group-title="LIVE:CHINA" tvg-id="" tvg-name="", Nhk World Tv
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="LIVE:CHINA" tvg-id="335" tvg-name="335", CCTV4 HD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="LIVE:CHINA" tvg-id="392" tvg-name="392", KBS World HD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/en/news/20180419/image2.png" group-title="LIVE:CHINA" tvg-id="CHN" tvg-name="CHN", NEXTTV
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="LIVE:CHINA" tvg-id="394" tvg-name="394", Oh!K HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small.png?v=2.0.0.13" group-title="LIVE:CHINA" tvg-id="393" tvg-name="393", ONE HD
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png" group-title="LIVE:CHINA" tvg-id="395" tvg-name="395", tvN HD
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tvn-movies.png" group-title="LIVE:CHINA" tvg-id="416" tvg-name="416", tvN Movies HD
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+
+
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/686C4852-63B3-4286-980B-B832F5829900.png/revision/latest?cb=20190529204426",hits FM
 http://astro1.rastream.com/hitz
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="http://4.bp.blogspot.com/-pX-suekr_xs/Te1VyFnsiEI/AAAAAAAABSE/0vrLyJLAsPw/s400/FM-Logo-THR-Gegar.jpg",Thr Gegar FM
@@ -1357,20 +1402,22 @@ http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/882731.mkv
 https://file.g8qu.me/?redirect=0lIkF2bs52dvRmIsUWdyRHLiAHMycjIsISRt1icsZ3MyZnbUJCLiI0RnR2dzZ3XD10a3VGW6pEMrV1UuN0VpFjbCJ1clVVb5oFTm9VcxBVR5gWQmJXQxEWMmJEMmNlbsdnTN5UO4llZHhEbnRVVGxWQnpmYwRzbDVkeEx2ZOFEaJFkU3FEefN0MHFUPnl2csZCbwxSa21GL21GLz1GLu1GLt1GLo1WPz1WYyFGczxmJ90zd3MjNUdDcQNFVyhWbSdUVwE1QH10SThUYoFER0MVe0hkcJlDbz9mWrJEZEFVSDN3SKN1ZD9kRip2YkRndU12dylFekFDcBhnQ2VXRHt2aIhDTHJEZ5VXTDJ1ZJFlU3hjSRBTcPFUPnl2cmQXbsxic1RGL2JHcsYncwZHLl1WatxCcwFGLklWZ2lmckxyYzV3cswGd0xCbzNXZylWdxVmcsU2YyV3bzxyZhRXasQWasA3YsAXaskWZsUmcpBHel1zctFmchB3cmkjM0kDMwYDN2ETP01mJ4AzN4ETO0UTN0YjN0AjNx0DdtxmJwITMuQDN2UTPyVHZmETP2JHcmETP2JHc2ZCNw12LvVGZpZXPl1WatZiclJ3bsBHel1DcwFmJvdjbB92azBje0omWvBlR3gnZQdjUyRnRVJUe5EFT0gTM9QWalZXayRmJyRWPjNXdzZCduVWaz5WYyRXPsRHdmcjM9wGcmMTPpZXbmUXP21mJ1NXPz1mJzdjbkVmboVTLuNXPu1mJyMTPt1mJsJUPo1mJzVWe9w2czVmcpVXclJnJlZXayRmYldXPlNmc192cmIjM9cWY0lmJmdjN1YWNhNTNzUzMihTY10DZpZyatF1QkhkT6VkMOd3aI50QOpWTZxWRPRTOWFVNOVFVXlTRPpXOs1UbWR1URpkMiZlQzI2d4tWT1gzaPBFaxEVVCZkVmZURXpkUWFVPwNmJwUjMuITOx4yMzEjL1QTPwlmJZF0dyVHN4AVQ3U3UihDTndTdZNWRppUPpVmJyYDM1IDM2QjNx0TZylGc4V2PrNWYilXYsB3blRWa29SbvNmLlx2Zv92ZuUmdpJHZuMmLzdjbkVmboVTLuNXLt0yMyJ3LvozcwRHdoJCLikCMyAjMoAyc05WY0VXbgcXZuBSZoRHItxWamJyW
 
 verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="LIVE:Lifestyle & Documentary" tvg-id="556" tvg-name="556", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="556" tvg-name="556", Animal Planet HD
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="LIVE:Lifestyle & Documentary" tvg-id="553" tvg-name="553", Discovery Asia HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="553" tvg-name="553", Discovery Asia HD
 https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="552" tvg-name="552", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="552" tvg-name="552", Discovery Channel HD
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="LIVE:Lifestyle & Documentary" tvg-id="550" tvg-name="550", Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="550" tvg-name="550", Nat Geo Wild HD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+
