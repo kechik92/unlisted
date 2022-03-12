@@ -1,4 +1,21 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel="icon" type="image/png" href="https://i.ibb.co/fnggjnX/20210817-002128.png"/>
+<script type="text/javascript">
+window.location = "https://laksa19.github.io/myqr"
+</script>
+</head>
+</html>
+
+<noscript>
+
+
+
+
 #EXTM3U
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
  
 #EXTINF:-1 tvg-id="101" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -55,6 +72,83 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="LIVE:MYTV",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="LIVE:INDIA" tvg-id="BflixMovies.in" tvg-name="BflixMovies.in", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzD7OhdSjEvTDVMKq-06O0MUFD-IqY1NoSA&usqp=CAU" group-title="LIVE:INDIA" tvg-id="StarGoldHDIndia.hk" tvg-name="StarGoldHDIndia.hk", Star Gold HD India
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="LIVE:INDIA" tvg-id="" tvg-name="", Jaya Max
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/live/109789/109789/6802.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="LIVE:INDIA" tvg-id="333" tvg-name="333", Colors Cineplex
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6768
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="LIVE:INDIA" tvg-id="221" tvg-name="221", Star Vijay HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/449042/449042/6732
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="LIVE:INDIA" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="LIVE:INDIA" tvg-id="" tvg-name="", Vasantham SG
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEWU5rR2VFQm1KSGFUbXBoMEF3UG8zRGtHTEpaSExxbGYzZVQwdms2T3k3bm9qZWlzeXQtYzRMY3FRanVYNlVBMU5pajdRMVJvaWY2Qzlod2liVTRLdFNjaWI4QkhfbUE2WXc2M0FZTWNwMl9XMVNaVTJzb2l3am9oVlFEZFdrRHJ6U2dLZ1RUX0xSSEx5dFNSR2FwWGdNWjRQTTkwU3pFbDdETGZvMW1SdW8wOXF3X2twb3NsU0hGNVlqX0VnS2dtbzBPeHl4YnVtYW9Nd1JucHg4RGVKUURTajJaRkV4UUJid1c0WFpJZGsxaDhwOGxOTmNYTjI1QkhmcXRpS2VKci0ycDA3cWNvT01iZU1BNTI1bzJFNjUteDNBT1ZGYUhibHZ3Q1VTSWFPcVZTYm5uMHNLb2U4elVKcUt6enhJZ1E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRZTmtHZUVCbUpIYVRtcGgwQXdQbzNEa0dMSlpITHFsZjNlVDB2azZPeTdub2plaXN5dC1jNExjcVFqdVg2VUExTmlqN1ExUm9pZjZDOWh3aWJVNEt0U2NpYjhCSF9tQTZZdzYzQVlNY3AyX1cxU1pVMnNvaXdqb2hWUURkV2tEcnpTZ0tnVFRfTFJITHl0U1JHYXBYZ01aNFBNOTBTekVsN0RMZm8xbVJ1bzA5cXdfa3Bvc2xTSEY1WWpfRWdLZ21vME94eXhidW1hb013Um5weDhEZUpRRFNqMlpGRXhRQmJ3VzRYWklkazFoOHA4bE5OY1hOMjVCSGZxdGlLZUpyLTJwMDdxY29PTWJlTUE1MjVvMkU2NS14M0FPVkZhSGJsdndDVVNJYU9xVlNibm4wc0tvZTh6VUpxS3p6eElnUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=tdJkiGa0oArKRF2NFm1Ix2yFlqQ%3d
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="LIVE:INDIA" tvg-id="SunTV.in" tvg-name="SunTV.in", Sun TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=86926949493ad3767442c338b3140810&key=cbccf2086e836ad13b783f6166f888fd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="LIVE:INDIA" tvg-id="222" tvg-name="222", Colors Tamil HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/live/109789/109789/6716.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="LIVE:INDIA" tvg-id="201" tvg-name="201", Astro Vaanavil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1d439372-3b08-4700-8626-42b62889cb2d
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="LIVE:INDIA" tvg-id="251" tvg-name="251", BollyOne HD
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://urtv.cc:80/422072/422072/6754
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="LIVE:INDIA" tvg-id="116" tvg-name="116",Colors Hindi HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png" group-title="LIVE:INDIA" tvg-id="SonyMaxIndia.in" tvg-name="SonyMaxIndia.in", Sony Max India
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+https://live.durbinlive.com/hls/sonymax.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="LIVE:INDIA" tvg-id="SETIndia.in" tvg-name="SETIndia.in", SET India
+#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
+http://144.217.70.181:9587/hin2/SONYTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200709/20200709194934030p1r.png" group-title="LIVE:INDIA" tvg-id="301" tvg-name="301", Yupp Thirai HD
+http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="LIVE:INDIA" tvg-id="ZeeBioskop.in" tvg-name="ZeeBioskop.in", Zee Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="LIVE:INDIA" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="LIVE:INDIA" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
+
  
  
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/686C4852-63B3-4286-980B-B832F5829900.png/revision/latest?cb=20190529204426",hits FM
@@ -897,6 +991,10 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pjoVm4z.jpg" group-title="VOD:English" tvg-id="" tvg-name="", Wildcat
 https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/tom-jerry-2021.jpg" group-title="VOD:English" tvg-id="" tvg-name="", Tom & Jerry
+https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tom%2520and%2520Jerry.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg" group-title="VOD:English" tvg-id="" tvg-name="", Wonder Woman
 https://cdn.jwplayer.com/manifests/nNjeV7v1.m3u8
 
@@ -1142,6 +1240,8 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Tombiruo720.mp4
 #EXTINF:-1 tvg-logo="https://www.ohflix.com/uploads/video_thumb/6998.jpg" group-title="VOD:Malay" tvg-id="" tvg-name="", V3: Samseng Jalanan
 https://api2.ohflix.workers.dev/0:/ohflix342/three/KoleksiMalay/4/Samseng%20Jalanan%202010.mp4
 
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://obs.line-scdn.net/0hosSO19wfMFxuNhsDZ41PC1RgMzNdWiNfCgBhQj5YbmgWBH4LVwQtbUwyaGgUA3cCAAR3PEw1K20TAHIJAQUt/w644" group-title="VOD:Mr Bean" tvg-id="" tvg-name="", Mr Bean Ep1
 https://obs.line-scdn.net/0hBo8Nn7agHUAFNzflqd9iFzZhHi82Ww5DYQFMXlVZRHYsBFMTP1lWJihlS3gvDlxTOFkFcnI-Eyc/720p.m3u8
@@ -1233,3 +1333,44 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/Sequels/Fast%20and%20Furious%
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="VOD:Fast Furious" tvg-id="" tvg-name="", F9 FHD
 https://calm-rain-70b4.buntai.workers.dev/0:/Movie2/English/F9.the.Fast.Saga.2021.1080p.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtbAQUE7wFstDJCm7kOjXOcZZ08ir63Ny5g&usqp=CAU" group-title="VOD:Transformer" tvg-id="" tvg-name="", Transformers: Age of Extinction
+https://api1.ohflix.workers.dev/0:/ohflix342/one/Random2%20Movies%20Malay%20Sub/Transformer%20Age%20Of%20Extinction%20(2014)%20Malay%20hardsub.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnCKjOE8E13R45SBIPcypN_yyfCJKxPoCw7w&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", Dark Phoenix
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/1065591.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqRgMQas15O4Owk5JDPrpc6PxB_eMs0oKrUw&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", X-men
+http://www.deadlyblogger.com/NewRelease/xmen1.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LUzixeRDu1-OMThYY1eRp6P2WNFwAzn0gA&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", X-Men: The Last Stand 
+http://www.deadlyblogger.com/NewRelease/xmen3.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtqyQy-BL4NTqqWBG8fdG9cJ6l_tqpPfz9hQ&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", The Wolverine
+http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3phEN_m87bx7z9VHIFdP_LM7leAMbYz2EA&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", Logan
+http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/882731.mkv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpkBBw9J6I-A_DCL8_1qY8MBUmyfwG6q4QQ&usqp=CAU" group-title="VOD:X-Men" tvg-id="" tvg-name="", The New Mutants
+https://file.g8qu.me/?redirect=0lIkF2bs52dvRmIsUWdyRHLiAHMycjIsISRt1icsZ3MyZnbUJCLiI0RnR2dzZ3XD10a3VGW6pEMrV1UuN0VpFjbCJ1clVVb5oFTm9VcxBVR5gWQmJXQxEWMmJEMmNlbsdnTN5UO4llZHhEbnRVVGxWQnpmYwRzbDVkeEx2ZOFEaJFkU3FEefN0MHFUPnl2csZCbwxSa21GL21GLz1GLu1GLt1GLo1WPz1WYyFGczxmJ90zd3MjNUdDcQNFVyhWbSdUVwE1QH10SThUYoFER0MVe0hkcJlDbz9mWrJEZEFVSDN3SKN1ZD9kRip2YkRndU12dylFekFDcBhnQ2VXRHt2aIhDTHJEZ5VXTDJ1ZJFlU3hjSRBTcPFUPnl2cmQXbsxic1RGL2JHcsYncwZHLl1WatxCcwFGLklWZ2lmckxyYzV3cswGd0xCbzNXZylWdxVmcsU2YyV3bzxyZhRXasQWasA3YsAXaskWZsUmcpBHel1zctFmchB3cmkjM0kDMwYDN2ETP01mJ4AzN4ETO0UTN0YjN0AjNx0DdtxmJwITMuQDN2UTPyVHZmETP2JHcmETP2JHc2ZCNw12LvVGZpZXPl1WatZiclJ3bsBHel1DcwFmJvdjbB92azBje0omWvBlR3gnZQdjUyRnRVJUe5EFT0gTM9QWalZXayRmJyRWPjNXdzZCduVWaz5WYyRXPsRHdmcjM9wGcmMTPpZXbmUXP21mJ1NXPz1mJzdjbkVmboVTLuNXPu1mJyMTPt1mJsJUPo1mJzVWe9w2czVmcpVXclJnJlZXayRmYldXPlNmc192cmIjM9cWY0lmJmdjN1YWNhNTNzUzMihTY10DZpZyatF1QkhkT6VkMOd3aI50QOpWTZxWRPRTOWFVNOVFVXlTRPpXOs1UbWR1URpkMiZlQzI2d4tWT1gzaPBFaxEVVCZkVmZURXpkUWFVPwNmJwUjMuITOx4yMzEjL1QTPwlmJZF0dyVHN4AVQ3U3UihDTndTdZNWRppUPpVmJyYDM1IDM2QjNx0TZylGc4V2PrNWYilXYsB3blRWa29SbvNmLlx2Zv92ZuUmdpJHZuMmLzdjbkVmboVTLuNXLt0yMyJ3LvozcwRHdoJCLikCMyAjMoAyc05WY0VXbgcXZuBSZoRHItxWamJyW
+
+verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="LIVE:Lifestyle & Documentary" tvg-id="556" tvg-name="556", Animal Planet HD
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="LIVE:Lifestyle & Documentary" tvg-id="553" tvg-name="553", Discovery Asia HD
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Lifestyle & Documentary" tvg-id="552" tvg-name="552", Discovery Channel HD
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="LIVE:Lifestyle & Documentary" tvg-id="550" tvg-name="550", Nat Geo Wild HD
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
