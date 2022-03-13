@@ -1,18 +1,5 @@
-<!DOCTYPE>
-<html>
-<head>
-<link rel="icon" type="image/png" href="https://i.ibb.co/fnggjnX/20210817-002128.png"/>
-<script type="text/javascript">
-window.location = "https://laksa19.github.io/myqr"
-</script>
-</head>
-</html>
-
-<noscript>
-
-
-
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 #EXTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
