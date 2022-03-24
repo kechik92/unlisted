@@ -276,17 +276,17 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="LIVE:MALAYSIA",ASTRO RIA
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
 
-#EXTINF: -1 tvg-id="107" tvg-name="ASTRO WARNA BACKUP" tvg-chno="19" tvg-logo="https://i.imgur.com/pJvetrD.png" group-title="LIVE:MALAYSIA",ASTRO WARNA BACKUP
+#EXTINF: -1 tvg-id="107" tvg-name="ASTRO WARNA BACKUP" tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" group-title="LIVE:MALAYSIA",ASTRO WARNA BACKUP
 http://sktv4u.xyz:2082/adeemar149/abc123/8448
 
-#EXTINF: -1 tvg-id="107" tvg-name="ASTRO WARNA BACKUP" tvg-chno="20" tvg-logo="https://i.imgur.com/pJvetrD.png" group-title="LIVE:MALAYSIA",ASTRO WARNA BACKUP
+#EXTINF: -1 tvg-id="107" tvg-name="ASTRO WARNA BACKUP" tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" group-title="LIVE:MALAYSIA",ASTRO WARNA BACKUP
 http://sktv4u.xyz:2082/adeemar149/abc123/8449
 
 
-#EXTINF: -1 tvg-id="108" tvg-name="MY: Astro Citra [A]" tvg-chno="24" tvg-logo="https://i.imgur.com/2HMuUrQ.png" group-title="LIVE:MALAYSIA",ASTRO CITRA
+#EXTINF: -1 tvg-id="108" tvg-name="MY: Astro Citra [A]" tvg-chno="24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="LIVE:MALAYSIA",ASTRO CITRA
 http://sktv4u.xyz:2082/adeemar149/abc123/8453
 
-#EXTINF: -1 tvg-id="108" tvg-name="MY: Astro Citra [B]" tvg-chno="25" tvg-logo="https://i.imgur.com/2HMuUrQ.png" group-title="LIVE:MALAYSIA",ASTRO CITRA BACKUP
+#EXTINF: -1 tvg-id="108" tvg-name="MY: Astro Citra [B]" tvg-chno="25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="LIVE:MALAYSIA",ASTRO CITRA BACKUP
 http://sktv4u.xyz:2082/adeemar149/abc123/8454
 
 
@@ -535,7 +535,7 @@ https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/105.ts
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE:MOVIE",BOO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
-#EXTINF: -1 tvg-id="404" tvg-name="MY: Astro BOO" tvg-chno="28" tvg-logo="https://i.imgur.com/XX7nfoF.png" group-title="LIVE:MOVIE",BOO BACKUP
+#EXTINF: -1 tvg-id="404" tvg-name="MY: Astro BOO" tvg-chno="28" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="LIVE:MOVIE",BOO BACKUP
 http://sktv4u.xyz:2082/adeemar149/abc123/8457
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1088,9 +1088,7 @@ https://calm-rain-70b4.buntai.workers.dev/0:/movie/ramlee/P.%20Ramlee%20-%20Ibu%
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/J_Revolusi.jpg/220px-J_Revolusi.jpg" group-title="VOD:Malay" tvg-id="" tvg-name="", J Revolusi
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/J.Revolution.mp4
 
-#EXTINF:-1 tvg-id="411" tvg-logo="hhttps://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="VOD:Malay",kampong pisang berbuah dua kali
-http://45.12.80.58:25461/movie/2591667/1667/26305.mp4?token=TBpYVERRRFhGCVdRAQACAgtWVA5YXA1VAAwEUFECBAYAW1NWAF0DVFQTGRdBTERRWFhuUAVGDgJUCwcHHBVDR1JKb1xTG1xAUAkNDRAUFEBQWFQbW1UCBFoIAgQDAg4YFUhZURUDRFBSBQUFEBQUUUFBVEsPBVhvBl1BW1NSFA4VGhwXWFc5BgFcVFtWGgwWCRcdGwgXRBJYVkJeXBsUVl5MQlRDXERYRgAFAgMaGhZaWkRXFRZNElgaemsSGxRRT0xVW0RQCQxGCxdYQgwUGBtcQmYTAUdEEF1WX1VFFA4VCBIZFVQHGjtSWltcXVVAUFpfSkNeFgFAFBVfX1lfQFhKb0VeXURYCkRZWU8=
-
+kak
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/qTQwpaPn04yOE7DXv7Z9G8q8uFs.jpg" group-title="VOD:Malay" tvg-id="" tvg-name="", Jangan Pandang Belakang Boleh? 2014
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/JANGAN%20PANDANG%20BELAKANG%20BOLEH%20B.mp4
 
@@ -1354,6 +1352,9 @@ https://misty-dust.evanwinters.workers.dev/0:/public/Polis.Evo.2.2018.1080p.NF.W
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2QzNGY3NjUtYWVmOC00YmMxLTkzZjItZDFjZjUxZDJkMWVkXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="VOD:Malay" tvg-id="" tvg-name="", Hantu Kak Limah (2018)
 https://file.g8qu.me/?redirect=0lIkF2bs52dvRmIsUWdyRHLiAHM4ATMiwiIJ1EbmNlbSVUM0FnIsISP9cGRtJ0bOREd3k0Nzp1azgVUyFUNwVXTqt2dtMUbDZVTwVULxEDWu1SYZl2QRl0QFZFc4dFVPd3U0UERNNENahXeBp3X3MnavhWYpZkaIZ3aZt0UzRWWTJjYmdWSRJ1dBh3XDNzRB1zZpNHbmwGcskmdtxidtxyctxibtxSbtxCat1zctFmchB3csZSP9E0Q4MEMZBTS3JTc4YFS0kmbXZTMX90QtBVMSJ1RXxWczZWYxJ1YmFTQplmQpF0Q4cEdZ1GaINma4VEV4IUOvNkdLB3MDhTTy1UZPpUS2ADSidHbrd0SpJDUBhWSRJ1d4oUUwE3TB1zZpNnJ01GbsIXdkxidyBHL2JHc2xSZtlWbsAHchxCZpVmdpJHZsM2c1NHLsRHdsw2czVmcpVXclJHLlNmc192cscWY0lGLklGLwNGLwlGLpVGLlJXawhXZ9MXbhJXYwNnJ0MjN1IDOyQjNx0DdtZCMwcTN2kDO1QTN4kzM4UTM9QXbsZCOwkjL0IjN20jc1RmJx0jdyBnJx0jdyBndmQDct9yblRWa21TZtlWbmIXZy9GbwhXZ9AHchZicTZWVjBVMJJHVlFmcxYDaYxmS0cFWihDethkN0R3MsFTPklWZ2lmckZick1zYzV3cmQnbll2cuFmc01Db0RnJ0ITPsBnJy0Ta21mJ11jdtZSdz1zctZSe24GZlVzZ00ibz1jbtZiMz0TbtZSaf1DatZycllXPsN3clJXa1FXZyZSZ2lmckJWZ31TZjJXdvNnJ3MTPnFGdpZiY3UWZmBTO0YjNzkDZjBDM9QWam00VVFnVqJmMZBDWIR2VXRzaYVlbOdkW5lleadEcVp1dZJDZIlDbSVEZGJldOZ0UKVzROpmWYNlba12TQhmRTRlQGVlZsVkVKJlVR1DcjZiN4EjL2UTMuAjMx4yNz0DcpZSUC92TLhTTTdGO4M1bMF2VZllc2l1b9kWZmcTNwEDN4IDN2ETPlJXawhXZ/s2YhJWehxGcvVGZpZ3Lt92YuUGbn92bn5SZ2lmck5yYuknNuRWZ1cGNt42ct0SLyIncv8iOzBHd0hmIsISeOxmWW50RVh3arNWVWdVW5ZkaO9GaGJ2SSpnVZp0RPRTMHNlMRhEZ6d3VNJyW
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg" group-title="VOD:Malay" tvg-id="" tvg-name=",kampong pisang berbuah dua kali
+http://45.12.80.58:25461/movie/2591667/1667/26305.mp4?token=TBpYVERRRFhGCVdRAQACAgtWVA5YXA1VAAwEUFECBAYAW1NWAF0DVFQTGRdBTERRWFhuUAVGDgJUCwcHHBVDR1JKb1xTG1xAUAkNDRAUFEBQWFQbW1UCBFoIAgQDAg4YFUhZURUDRFBSBQUFEBQUUUFBVEsPBVhvBl1BW1NSFA4VGhwXWFc5BgFcVFtWGgwWCRcdGwgXRBJYVkJeXBsUVl5MQlRDXERYRgAFAgMaGhZaWkRXFRZNElgaemsSGxRRT0xVW0RQCQxGCxdYQgwUGBtcQmYTAUdEEF1WX1VFFA4VCBIZFVQHGjtSWltcXVVAUFpfSkNeFgFAFBVfX1lfQFhKb0VeXURYCkRZWU8=
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbMGIvNwxvtJSpMfYNTFixKAblv2OcTOXV5g&usqp=CAU" group-title="VOD:Fast Furious" tvg-id="" tvg-name="", The Fast and the Furious
 http://www.deadlyblogger.com/NewRelease/fast1.mp4
@@ -1425,5 +1426,3 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="550" tvg-name="550", Nat Geo Wild HD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-
