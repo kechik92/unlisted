@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 #EXTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
@@ -1442,3 +1443,4 @@ https://www.googleapis.com/drive/v3/files/12eIj-tjLCA_SAGFEupN-XdJHB7WJVmAO?alt=
 
 #EXTINF:-1 tvg-id="This movie is Temporary" group-title="This movie is Temporary" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",Jungle Cruise
 https://www.googleapis.com/drive/v3/files/1zFwUIMbBLjWHFZ7xeRQNueYjh647wRLx?alt=media&key=AIzaSyAd5hZTMG5XEaVJcDnBE2nkUCa1vm56jtA
+
