@@ -301,6 +301,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="LIVE:MALAYSIA",ASTRO BOLLYONE
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
+#EXTINF: -1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png" group-title="LIVE:MALAYSIA", Astro Ceria
+http://iptv12k.com:35461/8022022301/468985/730
 
 
 
