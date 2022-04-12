@@ -926,18 +926,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="LIVE:SPORT",ASTRO ARENA 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF: -1 tvg-id="AstroSuperSport.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 1 HD
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=972
-#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 2 HD
-http://iptv12k.com:35461/8022022301/468985/655
-#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 3 HD
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=970
-#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 4 HD
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=969
-#EXTINF: 10 tvg-id="AstroSuperSport4.my" tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537523/444386170.jpg" group-title="LIVE:SPORT", ASTRO SUPERSPORT 5 HD
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=968
-#EXTINF: -1 tvg-id="WWE" tvg-logo="https://m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910647/343954881.png" group-title="LIVE:SPORT", WWE
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=652
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPLaqsL9WqG1iQRwoQIfM-SCn4P54Aw7UZEg&usqp=CAU" group-title="VOD:English" tvg-id="" tvg-name="", It Chapter Two (2019)
 http://srv41.nf21.net/files/15-2020-12-22-7ef6c4ef8dff7dc968c502aeb5894e13.mp4
