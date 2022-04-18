@@ -16,7 +16,11 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
- 
+
+#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="LIVE:MYTV", TV3 BACKUP
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
+
+
 #EXTINF:-1 tvg-id="106" group-title="LIVE:MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -564,12 +568,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="LIVE:MOVIE",CINEMAX BACKUP
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://kaytv.hexat.com/logo/flix.jpg" group-title="LIVE:MOVIE",&FLIX
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/104.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://kaytv.hexat.com/logo/prive.jpg" group-title="LIVE:MOVIE",&PRIVE
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/105.ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE:MOVIE",BOO
@@ -617,13 +615,13 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="LIVE:MOVIE",SONY PIX
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/298.ts
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142747
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png" group-title="LIVE:MOVIE",STAR MOVIES
 https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/299.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/YaAM9uAb.png" group-title="LIVE:MOVIE",STAR MOVIES SELECT
-https://link.zozotv.xyz:443/live/@nasanash/Lifetime8899/300.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png" group-title="LIVE:MOVIE",STAR MOVIES HD BACKUP
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142744
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
