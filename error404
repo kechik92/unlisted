@@ -1,17 +1,12 @@
-verspective.net/?deviceId=wyJHxbV3OyNCK5OQjDeRZIuT6GqlpmA0sVgSCEZdGKbrh6minRhZxg
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="556" tvg-name="556", TRY je 1 NO CUT
-https://linears-playback.astro.com.my/vsg/41lPcMB32-uP_ZzLlI86GMMPVXl9uHIS0x_9vuJyUHY3I=Td-G/dash-wv/jitp-linearwm/2700/default_ott.mpd
-
-verspective.net/?deviceId=wyJHxbV3OyNCK5OQjDeRZIuT6GqlpmA0sVgSCEZdGKbrh6minRhZxg
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="556" tvg-name="556", TRY je 2 CUT
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+#EXTINF:-1 tvg-id="411" ch-number="411" group-title="🇲🇾AstroGo : MOVIES" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbohd.png",HBO HD:Kpsboy
+https://linears-playback.astro.com.my/dash-wv/jitp-linear/2700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7ac5123e3450ed42e5c03a4e9f07b710&key=5e01133b2bc59acf9d9ce16849365671
-#EXTINF:-1 tvg-id="556" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="LIVE:KNOWLEDGE",TRY 1 NO CUT
-https://linears-playback.astro.com.my/vsg/41lPcMB32-uP_ZzLlI86GMMPVXl9uHIS0x_9vuJyUHY3I=Td-G/dash-wv/jitp-linearwm/2700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/ria.png" group-title="🇲🇾AstroGo : BAHASA MALAYSIA",Astro Ria HD:Kpsboy/Daily
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9MkJXJEFj3x0IOABUpv185k=eZnP/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7ac5123e3450ed42e5c03a4e9f07b710&key=5e01133b2bc59acf9d9ce16849365671
-#EXTINF:-1 tvg-id="556" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png" group-title="LIVE:KNOWLEDGE",TRY 2 CUT
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
+
