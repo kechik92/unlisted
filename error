@@ -17,6 +17,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
+
 #EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="LIVE:MYTV", TV3 BACKUP
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
 
@@ -47,7 +48,12 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
  
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MYTV",TV ALHIJRAH
 http://sktv4u.xyz:2082/adeemar149/abc123/8480
- 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
+#EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MYTV",TV ALHIJRAH BACKUP
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
 #EXTINF:-1 tvg-id="114" tvg-name="TV Al-Jazeera English" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly_3.png" group-title="LIVE:MYTV",TV Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
  
@@ -275,6 +281,9 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="LIVE:MALAYSIA",TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
+#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="LIVE:MYTV", TV3 BACKUP
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
@@ -310,9 +319,11 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="LIVE:MALAYSIA",ASTRO RIA
 http://sktv4u.xyz:2082/adeemar149/abc123/8444
 
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="LIVE:MALAYSIA",ASTRO RIA BACKUP
-http://sktv4u.xyz:2082/adeemar149/abc123/8445
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="LIVE:MALAYSIA",ASTRO RIA HD BACKUP
+https://linears-playback.astro.com.my/vsg/41gvfhXLK1ZSJ1JKd_krpcXckU1_zLIH9XmLjU2aQqm64=93Y8/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -527,6 +538,11 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
 #EXTINF:-1 tvg-id="411" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="LIVE:MOVIE",HBO
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=897aa91ee5958140b5ebd8076cced310&key=453b01beb73c78bd6f8ad380f8a06a8e
+#EXTINF:-1 tvg-id="411" ch-number="411" group-title="LIVE:MOVIE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO HD BACKUP
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -1440,8 +1456,14 @@ http://pbmedia.xyz:8080/movie/EmmaCece/yZQYc8Rt/882731.mkv
 https://file.g8qu.me/?redirect=0lIkF2bs52dvRmIsUWdyRHLiAHMycjIsISRt1icsZ3MyZnbUJCLiI0RnR2dzZ3XD10a3VGW6pEMrV1UuN0VpFjbCJ1clVVb5oFTm9VcxBVR5gWQmJXQxEWMmJEMmNlbsdnTN5UO4llZHhEbnRVVGxWQnpmYwRzbDVkeEx2ZOFEaJFkU3FEefN0MHFUPnl2csZCbwxSa21GL21GLz1GLu1GLt1GLo1WPz1WYyFGczxmJ90zd3MjNUdDcQNFVyhWbSdUVwE1QH10SThUYoFER0MVe0hkcJlDbz9mWrJEZEFVSDN3SKN1ZD9kRip2YkRndU12dylFekFDcBhnQ2VXRHt2aIhDTHJEZ5VXTDJ1ZJFlU3hjSRBTcPFUPnl2cmQXbsxic1RGL2JHcsYncwZHLl1WatxCcwFGLklWZ2lmckxyYzV3cswGd0xCbzNXZylWdxVmcsU2YyV3bzxyZhRXasQWasA3YsAXaskWZsUmcpBHel1zctFmchB3cmkjM0kDMwYDN2ETP01mJ4AzN4ETO0UTN0YjN0AjNx0DdtxmJwITMuQDN2UTPyVHZmETP2JHcmETP2JHc2ZCNw12LvVGZpZXPl1WatZiclJ3bsBHel1DcwFmJvdjbB92azBje0omWvBlR3gnZQdjUyRnRVJUe5EFT0gTM9QWalZXayRmJyRWPjNXdzZCduVWaz5WYyRXPsRHdmcjM9wGcmMTPpZXbmUXP21mJ1NXPz1mJzdjbkVmboVTLuNXPu1mJyMTPt1mJsJUPo1mJzVWe9w2czVmcpVXclJnJlZXayRmYldXPlNmc192cmIjM9cWY0lmJmdjN1YWNhNTNzUzMihTY10DZpZyatF1QkhkT6VkMOd3aI50QOpWTZxWRPRTOWFVNOVFVXlTRPpXOs1UbWR1URpkMiZlQzI2d4tWT1gzaPBFaxEVVCZkVmZURXpkUWFVPwNmJwUjMuITOx4yMzEjL1QTPwlmJZF0dyVHN4AVQ3U3UihDTndTdZNWRppUPpVmJyYDM1IDM2QjNx0TZylGc4V2PrNWYilXYsB3blRWa29SbvNmLlx2Zv92ZuUmdpJHZuMmLzdjbkVmboVTLuNXLt0yMyJ3LvozcwRHdoJCLikCMyAjMoAyc05WY0VXbgcXZuBSZoRHItxWamJyW
 
 verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="556" tvg-name="556", Animal Planet HD
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="556" tvg-name="556", Animal Planet HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7ac5123e3450ed42e5c03a4e9f07b710&key=5e01133b2bc59acf9d9ce16849365671
+#EXTINF:-1 tvg-id="556" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY",Animal Planet HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
