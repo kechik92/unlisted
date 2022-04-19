@@ -1,9 +1,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=MBNcidf3hEKUDchCSlpzAXBdOWgBHf5
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=0GsIEnayTFR3HTeCUm3GOqStEUu1
 #EXTINF:-1 tvg-id="411" ch-number="411" group-title="🇲🇾AstroGo : MOVIES" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbohd.png",HBO HD:Kpsboy
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=MBNcidf3hEKUDchCSlpzAXBdOWgBHf5
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=0GsIEnayTFR3HTeCUm3GOqStEUu1
 #EXTINF:-1 tvg-id="411" ch-number="411" group-title="🇲🇾AstroGo : MOVIES" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbohd.png",HBO HD:Kpsboy
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9AbHl0Dzsjt5lCzbiGBC3KE=mDNQ/dash-wv/jitp-linearwm/2700/default_ott.mpd
