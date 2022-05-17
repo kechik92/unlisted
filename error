@@ -272,7 +272,8 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-http://zalogitv.tech:8080/live/4587530/7530/1831.ts
+https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaGHejBS-Alh9K4iEFwTIeMYgEjBM1SRLIagBUkN1dgdYiiIutVqaKt3XBRuW0hRovQ&dmTs=151926&dmV1st=980ACE9814AA4C8E7544DE668DB649E7
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -954,13 +955,22 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
 #EXTINF: -1 tvg-id="AstroSuperSport.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT ", Astro Supersport 1 HD
+http://zalogitv.tech:8080/live/4587530/7530/1502.ts
+#EXTINF: -1 tvg-id="AstroSuperSport.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT ", Astro Supersport 1 HD BACKUP
 http://iptv12k.com:35461/live/80301051401/878900/972.ts
 #EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 2 HD
+http://zalogitv.tech:8080/live/4587530/7530/1503.ts
+#EXTINF: -1 tvg-id="AstroSuperSport2.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 2 HD BACKUP
 http://iptv12k.com:35461/live/80301051401/878900/655.ts
 #EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 3 HD
+http://zalogitv.tech:8080/live/4587530/7530/1504.ts
+#EXTINF: -1 tvg-id="AstroSuperSport3.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 3 HD BACKUP
 http://iptv12k.com:35461/live/80301051401/878900/970.ts
 #EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 4 HD
+http://zalogitv.tech:8080/live/4587530/7530/1505.ts
+#EXTINF: -1 tvg-id="AstroSuperSport4.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 4 HD BACKUP
 http://iptv12k.com:35461/live/80301051401/878900/969.ts
+
 #EXTINF: -1 tvg-id="WWE" tvg-logo="https://m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910647/343954881.png" group-title="LIVE:SPORT", WWE
 http://iptv12k.com:35461/live/80301051401/878900/652.ts
 
@@ -1492,3 +1502,5 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/322_144.png" group-title="LIVE:LIVESTYLE|DOCUMENTARY" tvg-id="550" tvg-name="550", Nat Geo Wild HD
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+
