@@ -14,14 +14,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
  
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-http://axcestv.vip:8080/freeview/axcestv/626
-
-
-
-#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="LIVE:MYTV", TV3 BACKUP
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
-.com
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaGHejBS-Alh9K4iEFwTIeMYgEjBM1SRLIagBUkN1dgdYiiIutVqaKt3XBRuW0hRovQ&dmTs=151926&dmV1st=980ACE9814AA4C8E7544DE668DB649E7
 
 
 #EXTINF:-1 tvg-id="106" group-title="LIVE:MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
@@ -282,12 +275,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-http://axcestv.vip:8080/freeview/axcestv/626
-
-
-
-#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="LIVE:MALAYSIA", TV3 BACKUP
-http://axcestv.vip:8080/freeview/axcestv/988
+https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaGHejBS-Alh9K4iEFwTIeMYgEjBM1SRLIagBUkN1dgdYiiIutVqaKt3XBRuW0hRovQ&dmTs=151926&dmV1st=980ACE9814AA4C8E7544DE668DB649E7
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
