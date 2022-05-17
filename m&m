@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="111" tvg-name="MIQA18" tvg-logo="https://cf.shopee.com.my/file/d95f61e1a60bf01cfc2a17079b940623" group-title="🇲🇾 TRUSTED_SELLER 🇲🇾",MIQA18
 astro.com.my
 
-#EXTINF:-1 tvg-id="103" group-title="❤️ THANKS YOU FOR YOUR SUPPORT ❤️" tvg-logo="https://thumbs.dreamstime.com/b/thank-you-stamp-style-design-thank-you-stamp-style-design-available-png-128743078.jpg",❤️ THANKS YOU YOUR SUPPORT ❤️
+#EXTINF:-1 tvg-id="103" group-title="❤️ THANKS YOU FOR YOUR SUPPORT ❤️" tvg-logo="https://thumbs.dreamstime.com/b/thank-you-stamp-style-design-thank-you-stamp-style-design-available-png-128743078.jpg",❤️ THANKS YOU FOR YOUR SUPPORT ❤️
 https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
@@ -95,27 +95,5 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 #EXTINF:-1 group-title="📻LIVE:RADIO📻" tvg-logo="https://dbs.radioline.fr/pictures/radio_28eeb8c9cdfcda936ac8c3e44f1f7b73/logo200.jpg",8FM 
 https://mediaprima.rastream.com/mediaprima-onefm
 
-
-
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg",The Batman 2022
-http://zalogitv.tech:8080/movie/4587530/7530/26502.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg",Morbius 2022
-http://zalogitv.tech:8080/movie/4587530/7530/26592.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",Spider-Man: No Way Home 2021
-http://zalogitv.tech:8080/movie/4587530/7530/26251.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg",Eternals - EnglishSub
-http://zalogitv.tech:8080/movie/4587530/7530/25840.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg",Resident Evil: Welcome to Raccoon City
-http://zalogitv.tech:8080/movie/4587530/7530/25753.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60MtV1IT1DOycZRajZOHu9WwaYC.jpg",Jodoh Syaitan
-http://zalogitv.tech:8080/movie/4587530/7530/13891.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvPfAW9soIwwo0zJxRAzwDpLaXS.jpg",J2: J Retribusi
-http://zalogitv.tech:8080/movie/4587530/7530/14123.mkv
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWVnuaEGbYiDnWm7uP0GqRonHzN.jpg",Kampong Pisang Berbuah Dua Kali
-http://zalogitv.tech:8080/movie/4587530/7530/26305.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yuTUkxQy0dg3gTGfcsEoFBAEt9n.jpg",Penunggang Agama 2
-http://zalogitv.tech:8080/movie/4587530/7530/25346.mp4
-#EXTINF:-1 tvg-id="This movie is Temporary" group-title="MOVIES INI AKAN LUPUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RiNZslaMoykZd1ZOIRQARXJhOS.jpg"Busut Bonang
-http://zalogitv.tech:8080/movie/4587530/7530/13919.mp4
 
 
