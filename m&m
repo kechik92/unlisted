@@ -17,8 +17,12 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" group-title="📺LIVE:MALAYSIA📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 
-#EXTINF:-1 tvg-id="103" group-title="📺LIVE:MALAYSIA📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 BACKUP
+#EXTINF:-1 tvg-id="103" group-title="📺LIVE:MALAYSIA📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 BACKUP A
 http://iptv12k.com:35461/live/80301051401/878900/5073.ts
+
+#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="📺LIVE:MALAYSIA📺", TV3 HD BACKUP B
+http://iptv12k.com:35461/live/80301051401/878900/5072.ts
+
 
 #EXTINF:-1 tvg-id="106" group-title="📺LIVE:MALAYSIA📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
