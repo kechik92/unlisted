@@ -19,8 +19,8 @@ http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 #EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 SD BACKUP A
 http://iptv12k.com:35461/live/80301051401/878900/5073.ts
 
-#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 HD BACKUP B
-http://iptv12k.com:35461/live/80301051401/878900/5072.ts
+#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 HD BACKUP B ( ni ok sikit )
+http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTINF:-1 tvg-id="106" group-title="LIVE:MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -283,8 +283,8 @@ http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 #EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 SD BACKUP A
 http://iptv12k.com:35461/live/80301051401/878900/5073.ts
 
-#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP B
-http://iptv12k.com:35461/live/80301051401/878900/5072.ts
+#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP B ( ni ok sikit )
+http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
