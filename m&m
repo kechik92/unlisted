@@ -102,4 +102,13 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 https://mediaprima.rastream.com/mediaprima-onefm
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa 
+#EXTINF:-1 tvg-id="118" ch-number="118" group-title="GO SHOP" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/f/38f94cf4ade8aa0acedd8e8e315ef087_icon.png",GO Shop 118 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90 
+#EXTINF:-1 tvg-id="120" ch-number="120" group-title="GO SHOP" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/goshopv2.png",GO Shop 120 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
