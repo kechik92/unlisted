@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="111" tvg-name="MIQA18" tvg-logo="https://cf.shopee.com.my/file/d95f61e1a60bf01cfc2a17079b940623" group-title="🇲🇾 TRUSTED_SELLER 🇲🇾",MIQA18
+#EXTINF:-1 tvg-id="111" tvg-name="_*LIVE:MALAYSIA*_" tvg-logo="https://cf.shopee.com.my/file/d95f61e1a60bf01cfc2a17079b940623" group-title="🇲🇾 TRUSTED_SELLER 🇲🇾",MIQA18
 astro.com.my
 
 #EXTINF:-1 tvg-id="103" group-title="❤️ THANKS YOU FOR YOUR SUPPORT ❤️" tvg-logo="https://thumbs.dreamstime.com/b/thank-you-stamp-style-design-thank-you-stamp-style-design-available-png-128743078.jpg",❤️ THANKS YOU FOR YOUR SUPPORT ❤️
@@ -6,7 +6,7 @@ https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="101" group-title="📺_*LIVE:MALAYSIA*_📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTINF:-1 tvg-id="101" group-title="📺LIVE:MALAYSIA📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
