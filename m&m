@@ -6,7 +6,7 @@ https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="101" group-title="📺LIVE:MALAYSIA📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTINF:-1 tvg-id="101" group-title="📺_*LIVE:MALAYSIA*_📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
@@ -45,10 +45,8 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/1200px-Logo_of_the_TV_Alhijrah.svg.png" group-title="📺LIVE:MALAYSIA📺",TV Al-Hijrah HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="📺LIVE:MALAYSIA📺",TV ALHIJRAH
+http://zalogitv.tech:8080/live/4587530/7530/11989.ts
 
 #EXTINF:-1 tvg-id="114" tvg-name="TV Al-Jazeera English" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly_3.png" group-title="📺LIVE:MALAYSIA📺",TV Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
