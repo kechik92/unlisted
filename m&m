@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-id="111" tvg-name="MIQA18" tvg-logo="https://cf.shopee.com.my/file/d95f61e1a60bf01cfc2a17079b940623" group-title="🇲🇾 ᴛʀᴜsᴛᴇᴅ_sᴇʟʟᴇʀ 🇲🇾",ᴍɪǫᴀ18
-astro.com.my
+#EXTINF:-1 tvg-id="01" tvg-name="MIQA18" tvg-logo="https://cf.shopee.com.my/file/d95f61e1a60bf01cfc2a17079b940623" group-title="🇲🇾 ᴛʀᴜsᴛᴇᴅ_sᴇʟʟᴇʀ 🇲🇾",ᴍɪǫᴀ18
+https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
 
-#EXTINF:-1 tvg-id="103" group-title="❤️ тнanĸѕ yoυ ғor yoυr ѕυpporт ❤️" tvg-logo="https://thumbs.dreamstime.com/b/thank-you-stamp-style-design-thank-you-stamp-style-design-available-png-128743078.jpg",❤️ тнanĸѕ yoυ ғor yoυr ѕυpporт ❤️
+#EXTINF:-1 tvg-id="02" group-title="❤️ тнanĸѕ yoυ ғor yoυr ѕυpporт ❤️" tvg-logo="https://thumbs.dreamstime.com/b/thank-you-stamp-style-design-thank-you-stamp-style-design-available-png-128743078.jpg",❤️ тнanĸѕ yoυ ғor yoυr ѕυpporт ❤️
 https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
@@ -20,7 +20,7 @@ http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 #EXTINF:-1 tvg-id="103" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 BACKUP A
 http://iptv12k.com:35461/live/80301051401/878900/5073.ts
 
-#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="📺lιve:мalayѕιa📺", TV3 HD BACKUP B
+#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="📺lιve:мalayѕιa📺", TV3 HD BACKUP B
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTINF:-1 tvg-id="106" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
