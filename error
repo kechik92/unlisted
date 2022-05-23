@@ -16,10 +16,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 
-#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 SD BACKUP A
+#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 SD BACKUP A
 https://tv.kpsvpn.com/tv3.m3u8
 
-#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 HD BACKUP B
+#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 HD BACKUP B
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTINF:-1 tvg-id="106" group-title="LIVE:MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
@@ -293,10 +293,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 
-#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 SD BACKUP A
+#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 SD BACKUP A
 https://tv.kpsvpn.com/tv3.m3u8
 
-#EXTINF: -1 tvg-id="TV3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP B
+#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP B
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
@@ -334,10 +334,10 @@ http://sktv4u.xyz:2082/adeemar149/abc123/8444
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="LIVE:MALAYSIA",ASTRO RIA HD BACKUP A
+#EXTINF:-1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA",ASTRO RIA HD BACKUP A
 https://linears-playback.astro.com.my/vsg/41gvfhXLK1ZSJ1JKd_krpcXckU1_zLIH9XmLjU2aQqm64=93Y8/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
-#EXTINF: -1 tvg-id="AstroRia.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA HD BACKUP B
+#EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA HD BACKUP B
 http://iptv12k.com:35461/live/80301051401/878900/735.ts
 
 
@@ -356,10 +356,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="LIVE:MALAYSIA",ASTRO CITRA NOT 24/7
 http://sktv4u.xyz:2082/adeemar149/abc123/8453
 
-#EXTINF: -1 tvg-id="AstroCitra.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png" group-title="LIVE:MALAYSIA", ASTRO CITRA HD BACKUP A
+#EXTINF: -1 tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png" group-title="LIVE:MALAYSIA", ASTRO CITRA HD BACKUP A
 http://iptv12k.com:35461/8022022301/468985/721
 
-#EXTINF: -1 tvg-id="AstroCitra.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png" group-title="LIVE:MALAYSIA", ASTRO CITRA HD BACKUP B
+#EXTINF: -1 tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png" group-title="LIVE:MALAYSIA", ASTRO CITRA HD BACKUP B
 http://iptv12k.com:35461/live/80301051401/878900/721.ts
 
 
@@ -368,12 +368,12 @@ http://iptv12k.com:35461/live/80301051401/878900/721.ts
 #EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="LIVE:MALAYSIA",ASTRO WARNA NOT 24/7
 https://m3u-editor.com/serve/7c7915a0-9cf3-11ec-af9f-2131c36f8e77/516019616
 
-#EXTINF: -1 tvg-id="AstroWarna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA HD BACKUP
+#EXTINF: -1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA HD BACKUP
 http://iptv12k.com:35461/live/80301051401/878900/4313.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="109" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="LIVE:MALAYSIA",ASTRO RANIA
+#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="LIVE:MALAYSIA",ASTRO RANIA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
