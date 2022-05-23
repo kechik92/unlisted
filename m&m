@@ -65,6 +65,17 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="📺lιve:мalayѕιa📺",Outdoor Channel [ʙᴏɴᴜs]
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa 
+#EXTINF:-1 tvg-id="118" ch-number="118" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/f/38f94cf4ade8aa0acedd8e8e315ef087_icon.png",GO Shop 118 HD [ʙᴏɴᴜs]
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90 
+#EXTINF:-1 tvg-id="120" ch-number="120" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/f/38f94cf4ade8aa0acedd8e8e315ef087_icon.png",GO Shop 120 HD [ʙᴏɴᴜs]
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+
+
 #EXTINF:0, tvg-id="chn" tvg-logo="https://kelantanfm.rtm.gov.my/storage/app/uploads/public/608/0c4/e97/6080c4e975178113540856.png" tvg-name="KelantanFM"  group-title="📻lιve:radιo📻",KelantanFM
 https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
 #EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/686C4852-63B3-4286-980B-B832F5829900.png/revision/latest?cb=20190529204426",hits FM
@@ -99,14 +110,3 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 #EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://dbs.radioline.fr/pictures/radio_28eeb8c9cdfcda936ac8c3e44f1f7b73/logo200.jpg",8FM 
 https://mediaprima.rastream.com/mediaprima-onefm
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa 
-#EXTINF:-1 tvg-id="118" ch-number="118" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/f/38f94cf4ade8aa0acedd8e8e315ef087_icon.png",GO Shop 118 HD [ʙᴏɴᴜs]
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90 
-#EXTINF:-1 tvg-id="120" ch-number="120" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/f/38f94cf4ade8aa0acedd8e8e315ef087_icon.png",GO Shop 120 HD [ʙᴏɴᴜs]
-https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
