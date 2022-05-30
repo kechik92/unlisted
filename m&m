@@ -115,14 +115,3 @@ https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch0
 #EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://dbs.radioline.fr/pictures/radio_28eeb8c9cdfcda936ac8c3e44f1f7b73/logo200.jpg",8FM 
 https://mediaprima.rastream.com/mediaprima-onefm
 
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-#EXTINF:-1 tvg-id="404" ch-number="404" group-title="SEMENTARA_SAHAJA" tvg-logo="https://astro-service2u.com/wp-content/uploads/2021/08/boo.png",BOO HD
-https://tv.kpsvpn.com/boo.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb95b8d4ab19d3ea816be9683310&key=560e1ef299aa9a4352e70ed14f8839b9
-#EXTINF:-1 tvg-id="412" ch-number="412" ch-number:"Cinemax" group-title="SEMENTARA_SAHAJA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD
-https://tv.kpsvpn.com/cinemax.mpd
