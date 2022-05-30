@@ -14,10 +14,10 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
  
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-http://zalogitv.tech:8080/live/4587530/7530/1831.ts
+https://tv.kpsvpn.com/tv3.m3u8
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 SD BACKUP A
-https://tv.kpsvpn.com/tv3.m3u8
+http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 HD BACKUP B
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
@@ -44,8 +44,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
  
 #EXTINF:-1 tvg-id="CHN" group-title="LIVE:MYTV" tvg-logo="https://1.bp.blogspot.com/-XbZueCP1SSo/YQqh13wccUI/AAAAAAAAADU/5tU_WtOa5BglGeHAXhVSXHNe1WQc7_w6QCLcBGAsYHQ/w1200-h630-p-k-no-nu/drama-sangat.jpg",Drama Sangat
-#EXTVLCOPT:http-referrer=https://dailymotion.com
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://tv.kpsvpn.com/DramaSangat.m3u8
  
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -83,53 +82,60 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716070131156wkh.png" group-title="LIVE:INDIA" tvg-id="" tvg-name="", Jaya Max
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/live/109789/109789/6802.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
+#EXTINF:-1 tvg-id="214" ch-number="214" group-title="LIVE:INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png",Adithiya HD
+https://tv.kpsvpn.com/Adithiya.mpd
+
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="LIVE:INDIA" tvg-id="333" tvg-name="333", Colors Cineplex
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/449042/449042/6768
 
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="LIVE:INDIA" tvg-id="221" tvg-name="221", Star Vijay HD
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
+#EXTINF:-1 tvg-id="221" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="LIVE:INDIA",Star Vijay HD
+https://tv.kpsvpn.com/StarVijay.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="221" tvg-name="221", Star Vijay HD
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
 http://urtv.cc:80/449042/449042/6732
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
+#EXTINF:-1 tvg-id="213" ch-number="213" group-title="LIVE:INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Kushi_TV_logo.jpg",Chutti TV HD
+https://tv.kpsvpn.com/chuttitv.mpd
+
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="LIVE:INDIA" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d00a8536425163d5274fdf086001e110&key=7261ce40695be3526cf0e8e224546723
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD77dZAThIRyeYE50YTPXVl6pFksv5G7W4gg&usqp=CAU" group-title="LIVE:INDIA" tvg-id="" tvg-name="", Vasantham SG
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEWU5rR2VFQm1KSGFUbXBoMEF3UG8zRGtHTEpaSExxbGYzZVQwdms2T3k3bm9qZWlzeXQtYzRMY3FRanVYNlVBMU5pajdRMVJvaWY2Qzlod2liVTRLdFNjaWI4QkhfbUE2WXc2M0FZTWNwMl9XMVNaVTJzb2l3am9oVlFEZFdrRHJ6U2dLZ1RUX0xSSEx5dFNSR2FwWGdNWjRQTTkwU3pFbDdETGZvMW1SdW8wOXF3X2twb3NsU0hGNVlqX0VnS2dtbzBPeHl4YnVtYW9Nd1JucHg4RGVKUURTajJaRkV4UUJid1c0WFpJZGsxaDhwOGxOTmNYTjI1QkhmcXRpS2VKci0ycDA3cWNvT01iZU1BNTI1bzJFNjUteDNBT1ZGYUhibHZ3Q1VTSWFPcVZTYm5uMHNLb2U4elVKcUt6enhJZ1E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRZTmtHZUVCbUpIYVRtcGgwQXdQbzNEa0dMSlpITHFsZjNlVDB2azZPeTdub2plaXN5dC1jNExjcVFqdVg2VUExTmlqN1ExUm9pZjZDOWh3aWJVNEt0U2NpYjhCSF9tQTZZdzYzQVlNY3AyX1cxU1pVMnNvaXdqb2hWUURkV2tEcnpTZ0tnVFRfTFJITHl0U1JHYXBYZ01aNFBNOTBTekVsN0RMZm8xbVJ1bzA5cXdfa3Bvc2xTSEY1WWpfRWdLZ21vME94eXhidW1hb013Um5weDhEZUpRRFNqMlpGRXhRQmJ3VzRYWklkazFoOHA4bE5OY1hOMjVCSGZxdGlLZUpyLTJwMDdxY29PTWJlTUE1MjVvMkU2NS14M0FPVkZhSGJsdndDVVNJYU9xVlNibm4wc0tvZTh6VUpxS3p6eElnUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=tdJkiGa0oArKRF2NFm1Ix2yFlqQ%3d
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="LIVE:INDIA" tvg-id="SunTV.in" tvg-name="SunTV.in", Sun TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=86926949493ad3767442c338b3140810&key=cbccf2086e836ad13b783f6166f888fd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="LIVE:INDIA" tvg-id="222" tvg-name="222", Colors Tamil HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/live/109789/109789/6716.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4e1f571523456cba3d3c5901c43b8d10&key=589b204b1b97b4bf4f4cbe0129fa67e6
+#EXTINF:-1 tvg-id="222" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="LIVE:INDIA",Colors Tamil HD
+https://tv.kpsvpn.com/ColorsTamil.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="LIVE:INDIA" tvg-id="201" tvg-name="201", Astro Vaanavil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/1d439372-3b08-4700-8626-42b62889cb2d
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png" group-title="LIVE:INDIA" tvg-id="251" tvg-name="251", BollyOne HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/422072/422072/6754
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072453864m2m.png" group-title="LIVE:INDIA" tvg-id="116" tvg-name="116",Colors Hindi HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png" group-title="LIVE:INDIA" tvg-id="SonyMaxIndia.in" tvg-name="SonyMaxIndia.in", Sony Max India
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-https://live.durbinlive.com/hls/sonymax.m3u8
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072803934rws.png" group-title="LIVE:INDIA" tvg-id="SETIndia.in" tvg-name="SETIndia.in", SET India
 #EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
@@ -299,10 +305,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-http://zalogitv.tech:8080/live/4587530/7530/1831.ts
+https://tv.kpsvpn.com/tv3.m3u8
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 SD BACKUP A
-https://tv.kpsvpn.com/tv3.m3u8
+http://zalogitv.tech:8080/live/4587530/7530/1831.ts
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP B
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
@@ -340,7 +346,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-XbZueCP1SSo/YQqh13wccUI/AAAAAAAAADU/5tU_WtOa5BglGeHAXhVSXHNe1WQc7_w6QCLcBGAsYHQ/w1200-h630-p-k-no-nu/drama-sangat.jpg" group-title="LIVE:MALAYSIA",DRAMA SANGAT
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://tv.kpsvpn.com/DramaSangat.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV
 http://iptv12k.com:35461/live/80301051401/878900/743.ts
