@@ -365,7 +365,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-XbZueCP1SSo/YQqh13wccUI/AAAAAAAAADU/5tU_WtOa5BglGeHAXhVSXHNe1WQc7_w6QCLcBGAsYHQ/w1200-h630-p-k-no-nu/drama-sangat.jpg" group-title="LIVE:MALAYSIA",DRAMA SANGAT
 https://tv.kpsvpn.com/DramaSangat.m3u8
 
+
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV
+http://iptv12k.com:35461/live/8032022060101/452381/743.ts
+
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV BACKUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
 https://tv.kpsvpn.com/Awesome.mpd
@@ -421,17 +425,17 @@ http://iptv12k.com:35461/live/80301051401/878900/730.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
-#EXTINF:-1 tvg-id="111" group-title="LIVE:Go-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH111 HD
+#EXTINF:-1 tvg-id="111" group-title="LIVE:GO-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH111 HD
 https://tv.kpsvpn.com/Goshop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa
-#EXTINF:-1 tvg-id="118" ch-number="118" group-title="LIVE:Go-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH118 HD
+#EXTINF:-1 tvg-id="118" ch-number="118" group-title="LIVE:GO-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH118 HD
 https://tv.kpsvpn.com/Goshop118.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90
-#EXTINF:-1 tvg-id="120" ch-number="120" group-title="LIVE:Go-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH120 HD
+#EXTINF:-1 tvg-id="120" ch-number="120" group-title="LIVE:GO-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH120 HD
 https://tv.kpsvpn.com/Goshop120.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
