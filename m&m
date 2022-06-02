@@ -85,7 +85,7 @@ https://tv.kpsvpn.com/tvs.mpd
 
 
 
-#EXTINF:0, tvg-id="chn" tvg-logo="https://kelantanfm.rtm.gov.my/storage/app/uploads/public/608/0c4/e97/6080c4e975178113540856.png" tvg-name="KelantanFM"  group-title="📻lιve:radιo📻",KelantanFM
+#EXTINF:0, tvg-id="chn" tvg-logo="https://i.ytimg.com/vi/blTTErDb6SY/maxresdefault.jpg" tvg-name="KelantanFM"  group-title="📻lιve:radιo📻",KelantanFM
 https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
 #EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/686C4852-63B3-4286-980B-B832F5829900.png/revision/latest?cb=20190529204426",hits FM
 http://astro1.rastream.com/hitz
