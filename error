@@ -1193,9 +1193,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Lifestyle_%26_Fashion_%282020%29.jpeg" group-title="LIVE:LIFESTYLE",LIFESTYLE & FASHION
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="LIVE:LIFESTYLE",OUTDOOR CHANNEL
-https://outdoorchannel-samsungau.amagi.tv/playlist720p.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b732fb1488c37774919ae7b4ab0f8010&key=62d4fdbfee0f22b6b0aaa6db9f8410c6
 #EXTINF:-1 tvg-id="707" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-title="LIVE:LIFESTYLE",TLC
