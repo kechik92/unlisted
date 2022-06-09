@@ -65,8 +65,10 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 xui-id="AstroAwani" tvg-id="AstroAwani" tvg-country="MY" tvg-language="Malay" group-title="📺lιve:мalayѕιa📺" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani [ʙᴏɴᴜs]
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="📺lιve:мalayѕιa📺",Outdoor Channel [ʙᴏɴᴜs]
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
+#EXTINF:-1 tvg-id="416" ch-number="416" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_25.png",tvN Movies HD [ʙᴏɴᴜs] [eхclυѕιve]
+https://tv.kpsvpn.com/tvnmovies.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
