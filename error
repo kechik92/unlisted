@@ -291,12 +291,6 @@ http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 http://astro2.rastream.com/era
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",Sinar FM
 https://astro2.rastream.com/sinar
-#EXTINF:-1 group-title="LIVE:RADIO" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
-https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6324.1564812092.png",Mix.Fm
-https://astro2.rastream.com/mix
-#EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hvEKW93hqh.jpg",India Beat FM
-https://astro4.rastream.com/india
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/f99qzc7trxuz.jpg",NasionaL FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 #EXTINF:-1 group-title="LIVE:RADIO" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik FM
@@ -311,11 +305,18 @@ https://mediaprima.rastream.com/mediaprima-koolfm
 https://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="LIVE:RADIO" ch-number="725" tvg-chno="725" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
-#EXTINF:-1 group-title="LIVE:RADIO" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://pbs.twimg.com/profile_images/426155316758077440/FnJgAITy_400x400.jpeg",Traxx FM
-https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://dbs.radioline.fr/pictures/radio_28eeb8c9cdfcda936ac8c3e44f1f7b73/logo200.jpg",8FM 
 https://mediaprima.rastream.com/mediaprima-onefm
-
+#EXTINF:0, tvg-id="chn" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png" tvg-name="ASYIKfm"  group-title="🇲LIVE:RADIO",ASYIK FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
+#EXTINF:-1 group-title="LIVE:RADIO" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6324.1564812092.png",Mix.Fm
+https://astro2.rastream.com/mix
+#EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hvEKW93hqh.jpg",India Beat FM
+https://astro4.rastream.com/india
+#EXTINF:-1 group-title="LIVE:RADIO" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://pbs.twimg.com/profile_images/426155316758077440/FnJgAITy_400x400.jpeg",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 
 
 
