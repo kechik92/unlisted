@@ -115,8 +115,6 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 https://mediaprima.rastream.com/mediaprima-molekfm
 #EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://dbs.radioline.fr/pictures/radio_28eeb8c9cdfcda936ac8c3e44f1f7b73/logo200.jpg",8FM 
 https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:0, tvg-id="chn" tvg-logo="https://asyikfm.rtm.gov.my/storage/app/uploads/public/610/363/a10/610363a102023061998674.png" tvg-name="ASYIKfm"  group-title="📻lιve:radιo📻",ASYIK FM
-https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8
 #EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://pbs.twimg.com/profile_images/426155316758077440/FnJgAITy_400x400.jpeg",Traxx FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
 #EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
