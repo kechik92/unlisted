@@ -289,7 +289,8 @@ http://astro1.rastream.com/hitz
 http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.png",era FM
 http://astro2.rastream.com/era
-#EXTINF:-1 group-title="LIVE:RADIO" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR https://astro2.rastream.com/sinar
+#EXTINF:-1 group-title="LIVE:RADIO" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",Sinar FM
+https://astro2.rastream.com/sinar
 #EXTINF:-1 group-title="LIVE:RADIO" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
 https://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 group-title="LIVE:RADIO" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6324.1564812092.png",Mix.Fm
