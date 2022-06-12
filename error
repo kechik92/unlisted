@@ -68,8 +68,8 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 xui-id="AstroAwani" tvg-id="AstroAwani" tvg-country="MY" tvg-language="Malay" group-title="LIVE:MYTV" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="LIVE:MYTV",Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg" group-title="LIVE:MYTV",TV IKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="LIVE:INDIA" tvg-id="BflixMovies.in" tvg-name="BflixMovies.in", Bflix Movies
