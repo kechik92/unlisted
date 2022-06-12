@@ -15,8 +15,8 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="103" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://tv.kpsvpn.com/tv3.m3u8
+#EXTINF:-1 tvg-id="103" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 [UNTUK SEMENTARA]
+http://iptv12k.com:35461/live/8032022060101/452381/5073.ts
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="📺lιve:мalayѕιa📺", TV3 HD BACKUP
 http://iptv12k.com:35461/live/8032022060101/452381/5072.ts
@@ -31,8 +31,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="📺lιve:мalayѕιa📺",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="109" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9
-https://tv.kpsvpn.com/TV9.m3u8
+#EXTINF:-1 tvg-id="109" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9 [UNTUK SEMENTARA]
+http://iptv12k.com:35461/live/8032022060101/452381/737.ts
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
@@ -40,8 +40,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
-https://tv.kpsvpn.com/DramaSangat.m3u8
+#EXTINF:-1 tvg-id="CHN" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat [UNTUK SEMENTARA]
+http://iptv12k.com:35461/live/8032022060101/452381/5997.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
@@ -65,25 +65,8 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 xui-id="AstroAwani" tvg-id="AstroAwani" tvg-country="MY" tvg-language="Malay" group-title="📺lιve:мalayѕιa📺" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani [ʙᴏɴᴜs]
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
-#EXTINF:-1 tvg-id="416" ch-number="416" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_25.png",tvN Movies HD [ʙᴏɴᴜs] [eхclυѕιve]
-https://tv.kpsvpn.com/tvnmovies.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa 
-#EXTINF:-1 tvg-id="118" ch-number="118" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/f/38f94cf4ade8aa0acedd8e8e315ef087_icon.png",GO Shop 118 HD [ʙᴏɴᴜs]
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90 
-#EXTINF:-1 tvg-id="120" ch-number="120" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://cdn6.aptoide.com/imgs/3/8/f/38f94cf4ade8aa0acedd8e8e315ef087_icon.png",GO Shop 120 HD [ʙᴏɴᴜs]
-https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
-#EXTINF:-1 tvg-id="122" ch-number="122" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS HD [ʙᴏɴᴜs]
-https://tv.kpsvpn.com/tvs.mpd
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg" group-title="📺lιve:мalayѕιa📺",TV IKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
 
 
