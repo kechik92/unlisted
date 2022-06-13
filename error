@@ -14,7 +14,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
  
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-http://iptv12k.com:35461/live/8032022060101/452381/5073.ts
+https://Astro.kpsboyserver.com/tv3.m3u8
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 HD BACKUP
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
  
  
 #EXTINF:-1 tvg-id="109" group-title="LIVE:MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/640px-TV9_Malaysia_Logo_2021.png",TV9
-http://iptv12k.com:35461/live/8032022060101/452381/737.ts
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
  
@@ -41,13 +41,13 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
  
 #EXTINF:-1 tvg-id="CHN" group-title="LIVE:MYTV" tvg-logo="https://1.bp.blogspot.com/-XbZueCP1SSo/YQqh13wccUI/AAAAAAAAADU/5tU_WtOa5BglGeHAXhVSXHNe1WQc7_w6QCLcBGAsYHQ/w1200-h630-p-k-no-nu/drama-sangat.jpg",Drama Sangat
-http://iptv12k.com:35461/live/8032022060101/452381/5997.ts
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
  
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MYTV",TV Al-Hijrah HD
-https://tv.kpsvpn.com/alhijrah.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MYTV",TV ALHIJRAH BACKUP
@@ -83,7 +83,7 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e43b89a409027b38c471e4088cf76210&key=2ded2169b89a80a1179f501fa3b6c081
 #EXTINF:-1 tvg-id="214" ch-number="214" group-title="LIVE:INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png",Adithiya HD
-https://tv.kpsvpn.com/Adithiya.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
 
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png" group-title="LIVE:INDIA" tvg-id="333" tvg-name="333", Colors Cineplex
@@ -94,18 +94,12 @@ http://urtv.cc:80/449042/449042/6768
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=505f7a8803b542e78941a6bfe40d2910&key=166626a62cf1b356c298b58842c60661
 #EXTINF:-1 tvg-id="221" tvg-logo="https://img2.pngio.com/stars-cartoon-png-download-512512-free-transparent-star-vijay-star-vijay-png-900_520.jpg" group-title="LIVE:INDIA",Star Vijay HD
-https://tv.kpsvpn.com/StarVijay.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="" tvg-id="221" tvg-name="221", Star Vijay HD
-#EXTVLCOPT:http-user-agent=MxExoPlayerLib/ 2.8.4
-http://urtv.cc:80/449042/449042/6732
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=19e79967a0f1ead8bb7bc453bbc3d110&key=592722a6819d1226921e68d689262497
 #EXTINF:-1 tvg-id="213" ch-number="213" group-title="LIVE:INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Kushi_TV_logo.jpg",Chutti TV HD
-https://tv.kpsvpn.com/chuttitv.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_ott.mpd
 
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="LIVE:INDIA" tvg-id="ZeeTamil.in" tvg-name="ZeeTamil.in", Zee Tamil
@@ -121,7 +115,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4e1f571523456cba3d3c5901c43b8d10&key=589b204b1b97b4bf4f4cbe0129fa67e6
 #EXTINF:-1 tvg-id="222" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Colors_Tamil.png" group-title="LIVE:INDIA",Colors Tamil HD
-https://tv.kpsvpn.com/ColorsTamil.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="LIVE:INDIA" tvg-id="201" tvg-name="201", Astro Vaanavil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -161,97 +155,97 @@ http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
 #EXTINF:-1 tvg-id="304" ch-number="AstroXiaoTaiYang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="LIVE:CHINA",Astro Xiao Tai Yang HD
-https://tv.kpsvpn.com/XiaoTaiYang.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9481ab597f06bb7fa40cb2364c126210&key=f2b4b15da2544303c44d3ca0b16d3de8
 #EXTINF:-1 tvg-id="305" ch-number="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="LIVE:CHINA",TVB Classic HD
-https://tv.kpsvpn.com/TVBClassic.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" group-title="LIVE:CHINA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro Quan Jia HD
-https://tv.kpsvpn.com/QuanJia.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=064b474a4851760b3ac81a7e89437410&key=18eea3fcbfb8313f46d1a2c45a573e02
 #EXTINF:-1 tvg-id="309" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="LIVE:CHINA",Celestial HD
-https://tv.kpsvpn.com/Celestial.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=428c1a9941e2570c3e7e5b4973f55010&key=d354bf92d1de1297e92fc2bf14568719
 #EXTINF:-1 tvg-id="310" ch-number="TVBJade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="LIVE:CHINA",TVB Jade HD
-https://tv.kpsvpn.com/TVBJade.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
 #EXTINF:-1 tvg-id="311" ch-number="AstroAOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="LIVE:CHINA",Astro AOD 311 HD 
-https://tv.kpsvpn.com/AOD.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5712f6638931e8d701daf8b7b0131310&key=7b34f0cfde27af4f2da14380f05a8d1c
 #EXTINF:-1 tvg-id="316" ch-number="CTIAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="LIVE:CHINA",CTI Asia HD
-https://tv.kpsvpn.com/CTiAsia.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1cd3bd6eb6c49675dc616b30dcf1db10&key=13017770bc552725d1a0ba20fa1a2ddd
 #EXTINF:-1 tvg-id="317" ch-number="TVBEntertainmentNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="LIVE:CHINA",TVB Entertainment News HD
-https://tv.kpsvpn.com/TVBEntert.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3dd2a2632a196215cc1833487b25b810&key=c3ebe66b4783f3ea4017b63f6b7efe92
 #EXTINF:-1 tvg-id="319" ch-number="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="LIVE:CHINA",TVB Xing He HD
-https://tv.kpsvpn.com/TVBXingHe.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=df3794ff832e6522834dc113e9584d10&key=b56afec777d088b8b24164274c9c4c46
 #EXTINF:-1 tvg-id="320" ch-number="TVBSAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="LIVE:CHINA",TVBS HD
-https://tv.kpsvpn.com/tvbasia.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 tvg-chno="CHN" tvg-id="CHN" group-title="LIVE:CHINA" tvg-logo="https://img.favpng.com/19/16/23/hunan-television-television-channel-mango-tv-png-favpng-TYsAyMeEQWqMi0035sRDVWzMu.jpg",HUNAN TV HD
-https://tv.kpsvpn.com/Hunan.mpd
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
 #EXTINF:-1 tvg-id="321" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="LIVE:CHINA",CCM HD
-https://tv.kpsvpn.com/ccm.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=36886a39c10db1d40b475aa8cf7f6b10&key=1fdf84adbe05d8183d140b9a2e116a96
 #EXTINF:-1 tvg-id="323" ch-number="TVBSNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/427_144.png" group-title="LIVE:CHINA",TVBS News HD
-https://tv.kpsvpn.com/Tvbsnews.mpd
+hhttps://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f13760c949c41e64763717e96ec46910&key=2a49f6a488f99fe914d5897e27f20c39
 #EXTINF:-1 tvg-id="325" ch-number="Phoenix" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/382_144.png" group-title="LIVE:CHINA",Phoenix HD
-https://tv.kpsvpn.com/phoenix.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ca05d01bbb4bbfa624a34a9d97fca910&key=9e0dee9bf3aa066182f701cec38be004
 #EXTINF:-1 tvg-id="326" ch-number="PhoenixNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png" group-title="LIVE:CHINA",Phoenix Info News HD
-https://tv.kpsvpn.com/phoenixnews.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=50f975bfac7d0c485fa36d54d2bba610&key=db4f4d75ac6d065e0fa1c0b6400251ab
 #EXTINF:-1 tvg-id="333" ch-number="HuaHeeDai" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" group-title="LIVE:CHINA",Astro Hua Hee Dai HD
-https://tv.kpsvpn.com/huaheedai.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09db4c1b805ee425c48f2f328e641110&key=280b40db599c53c1620d3fc0e41c7fdd
 #EXTINF:-1 tvg-id="335" ch-number="CCTV4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" group-title="LIVE:CHINA",CCTV4 HD
-https://tv.kpsvpn.com/cctv4.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=615ed4bcd8cecca6b9703e54252f8c10&key=84b3495bfb163c17a6cc6cf43b1f02e9
 #EXTINF:-1 tvg-id="352" ch-number="AOD352" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="LIVE:CHINA",Astro AOD 352 HD
-https://tv.kpsvpn.com/AOD352.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d24b39ffd2824eeb3e03eb5da918ad10&key=7ca1866a4eace300a65998d1fc94ac28
 #EXTINF:-1 tvg-id="354" ch-number="AOD354" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="LIVE:CHINA",Astro AOD 354 HD
-https://tv.kpsvpn.com/AOD354.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
 
 
@@ -326,7 +320,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://tv.kpsvpn.com/tv3.m3u8
+https://Astro.kpsboyserver.com/tv3.m3u8
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP
 http://iptv12k.com:35461/live/8032022060101/452381/5072.ts
@@ -341,15 +335,14 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="109" group-title="LIVE:MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9 BACKUP
-https://tv.kpsvpn.com/TV9.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MALAYSIA",TV Al-Hijrah HD
-https://tv.kpsvpn.com/alhijrah.mpd
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MALAYSIA",TV ALHIJRAH BACKUP
 http://zalogitv.tech:8080/live/4587530/7530/11989.ts
@@ -364,7 +357,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-XbZueCP1SSo/YQqh13wccUI/AAAAAAAAADU/5tU_WtOa5BglGeHAXhVSXHNe1WQc7_w6QCLcBGAsYHQ/w1200-h630-p-k-no-nu/drama-sangat.jpg" group-title="LIVE:MALAYSIA",DRAMA SANGAT
-https://tv.kpsvpn.com/DramaSangat.m3u8
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV
@@ -373,7 +366,7 @@ http://iptv12k.com:35461/live/8032022060101/452381/743.ts
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV BACKUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
-https://tv.kpsvpn.com/Awesome.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
 
 #EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA HD
@@ -406,8 +399,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
-#EXTINF:-1 tvg-id="112" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="LIVE:MALAYSIA",ASTRO RANIA
-http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+#EXTINF:-1 tvg-id="112" ch-number="AstroRania" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png" group-title="LIVE:MALAYSIA",ASTRO RANIA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -417,7 +410,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="611" group-title="LIVE:MALAYSIA" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png" ch-number="611",ASTRO CERIA
-https://tv.kpsvpn.com/ceria.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF: -1 tvg-id="611" tvg-name="Astro Ceria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png" group-title="LIVE:MALAYSIA", ASTRO CERIA BACKUP
 http://iptv12k.com:35461/live/80301051401/878900/730.ts
 
@@ -427,22 +420,19 @@ http://iptv12k.com:35461/live/80301051401/878900/730.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=930792941220753511b6c2efc5317b10&key=13acecaf90b59fb0c94115b04be71847
 #EXTINF:-1 tvg-id="111" group-title="LIVE:GO-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH111 HD
-https://tv.kpsvpn.com/Goshop.mpd
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa
 #EXTINF:-1 tvg-id="118" ch-number="118" group-title="LIVE:GO-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH118 HD
-https://tv.kpsvpn.com/Goshop118.mpd
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90
 #EXTINF:-1 tvg-id="120" ch-number="120" group-title="LIVE:GO-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH120 HD
-https://tv.kpsvpn.com/Goshop120.mpd
-
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba4df7f7152c90246234445b6243f610&key=e8117952182caf38bab3a6db439328a7
 #EXTINF:-1 tvg-id="303" ch-number="303" group-title="LIVE:GO-Shop" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/403_144.png",GO Shop CH303 HD
-https://tv.kpsvpn.com/Goshop303.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 
 
 
