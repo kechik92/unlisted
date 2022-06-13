@@ -15,11 +15,11 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="103" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 [UNTUK SEMENTARA]
-http://iptv12k.com:35461/live/8032022060101/452381/5073.ts
+#EXTINF:-1 tvg-id="103" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+https://Astro.kpsboyserver.com/tv3.m3u8
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="📺lιve:мalayѕιa📺", TV3 HD BACKUP
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
+http://iptv12k.com:35461/live/8032022060101/452381/5073.ts
 
 #EXTINF:-1 tvg-id="106" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -31,8 +31,8 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="📺lιve:мalayѕιa📺",8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="109" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9 [UNTUK SEMENTARA]
-http://iptv12k.com:35461/live/8032022060101/452381/737.ts
+#EXTINF:-1 tvg-id="109" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
@@ -40,13 +40,13 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat [UNTUK SEMENTARA]
-http://iptv12k.com:35461/live/8032022060101/452381/5997.ts
+#EXTINF:-1 tvg-id="CHN" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
 #EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="📺lιve:мalayѕιa📺",TV ALHIJRAH HD
-https://tv.kpsvpn.com/alhijrah.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="📺lιve:мalayѕιa📺",TV ALHIJRAH BACKUP
 http://zalogitv.tech:8080/live/4587530/7530/11989.ts
@@ -65,10 +65,13 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 xui-id="AstroAwani" tvg-id="AstroAwani" tvg-country="MY" tvg-language="Malay" group-title="📺lιve:мalayѕιa📺" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani [ʙᴏɴᴜs]
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg" group-title="📺lιve:мalayѕιa📺",TV IKIM
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg" group-title="📺lιve:мalayѕιa📺",TV IKIM [ʙᴏɴᴜs]
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
+#EXTINF:-1 tvg-id="416" ch-number="416" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies HD [ʙᴏɴᴜs] [eхclυѕιve]
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:0, tvg-id="chn" tvg-logo="https://i.ytimg.com/vi/blTTErDb6SY/maxresdefault.jpg" tvg-name="KelantanFM"  group-title="📻lιve:radιo📻",KelantanFM
 https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
