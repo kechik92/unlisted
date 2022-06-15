@@ -322,13 +322,10 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 https://Astro.kpsboyserver.com/tv3.m3u8
 
-#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 SD BACKUP
-http://iptv12k.com:35461/live/8030615012/555555/5073.ts
-
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
+#EXTINF:-1 tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-id="148" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="LIVE:MALAYSIA",8TV
@@ -344,10 +341,10 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MALAYSIA",TV Al-Hijrah HD
+#EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MALAYSIA",TV ALHIJRAH HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MALAYSIA",TV ALHIJRAH BACKUP
+#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="LIVE:MALAYSIA",TV ALHIJRAH HD BACKUP
 http://zalogitv.tech:8080/live/4587530/7530/11989.ts
 
 #EXTINF:-1 tvg-id="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="LIVE:MALAYSIA",TV OKEY
@@ -359,14 +356,14 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-XbZueCP1SSo/YQqh13wccUI/AAAAAAAAADU/5tU_WtOa5BglGeHAXhVSXHNe1WQc7_w6QCLcBGAsYHQ/w1200-h630-p-k-no-nu/drama-sangat.jpg" group-title="LIVE:MALAYSIA",DRAMA SANGAT
+#EXTINF:-1 tvg-id="105" tvg-logo="https://1.bp.blogspot.com/-XbZueCP1SSo/YQqh13wccUI/AAAAAAAAADU/5tU_WtOa5BglGeHAXhVSXHNe1WQc7_w6QCLcBGAsYHQ/w1200-h630-p-k-no-nu/drama-sangat.jpg" group-title="LIVE:MALAYSIA",DRAMA SANGAT
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV
-http://iptv12k.com:35461/live/8032022060101/452381/743.ts
+#EXTINF: -1 tvg-id="112" tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV
+http://zalogitv.tech:8080/live/4587530/7530/1828.ts
 
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV BACKUP
+#EXTINF: -1 tvg-id="112" tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV BACKUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
 https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
@@ -1413,24 +1410,25 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142711
 
 #EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT ", Astro Supersport 1 HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142712
-#EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT ", Astro Supersport 1 HD BACKUP
+http://zalogitv.tech:8080/live/4587530/7530/6460.ts
+#EXTINF: -1 tvg-id="AstroSuperSportBACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT ", Astro Supersport 1 HD BACKUP
 http://zalogitv.tech:8080/live/4587530/7530/6460.ts
 #EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 2 HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142713
-#EXTINF: -1 tvg-id="AstroSuperSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 2 HD BACKUP
+#EXTINF: -1 tvg-id="AstroSuperSport2BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 2 HD BACKUP
 http://zalogitv.tech:8080/live/4587530/7530/7554.ts
 #EXTINF: -1 tvg-id="AstroSuperSport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 3 HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142714
-#EXTINF: -1 tvg-id="AstroSuperSport3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 3 HD BACKUP
+#EXTINF: -1 tvg-id="AstroSuperSport3BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 3 HD BACKUP
 http://zalogitv.tech:8080/live/4587530/7530/7555.ts
 #EXTINF: -1 tvg-id="AstroSuperSport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 4 HD
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142715
-#EXTINF: -1 tvg-id="AstroSuperSport4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 4 HD BACKUP
+#EXTINF: -1 tvg-id="AstroSuperSport4BACKUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="LIVE:SPORT", Astro Supersport 4 HD BACKUP
 http://zalogitv.tech:8080/live/4587530/7530/12273.ts
 
 #EXTINF: -1 tvg-id="WWE" tvg-logo="https://m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910647/343954881.png" group-title="LIVE:SPORT", WWE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
-#EXTINF: -1 tvg-id="WWE" tvg-logo="https://m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910647/343954881.png" group-title="LIVE:SPORT", WWE BACKUP
+#EXTINF: -1 tvg-id="WWEBACKUP" tvg-logo="https://m3u-editor.com/storage/channel-logos/0e560cb0-edd5-11eb-b11c-6f670e934a5b/1910647/343954881.png" group-title="LIVE:SPORT", WWE BACKUP
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142717
 
 
