@@ -1,14 +1,3 @@
-#EXTINF:-1 tvg-id="111" tvg-name="MIQA18" tvg-logo="https://cf.shopee.com.my/file/d95f61e1a60bf01cfc2a17079b940623" group-title="🇲🇾 TRUSTED_SELLER 🇲🇾",MIQA18
-astro.com.my
-
-#EXTINF:-1 tvg-id="103" group-title="❤️ THANKS YOU YOUR SUPPORT ❤️" tvg-logo="https://thumbs.dreamstime.com/b/thank-you-stamp-style-design-thank-you-stamp-style-design-available-png-128743078.jpg",❤️ THANKS YOU YOUR SUPPORT ❤️
-https://kelantanfmmobile.secureswiftcontent.com/rtm-ch032/rtm-ch032/playlist.m3u8
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
-
-
-#EXTINF:-1 tvg-id="103" group-title="LIVE-MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-http://95.214.235.93:8880/trmall/trmall0308/1732
-
-#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="LIVE-MALAYSIA", TV3 BACKUP
-http://139.99.60.182:35461/streaming/clients_live.php?extension=ts&username=80301051401&password=878900&stream=743&token=WUx6eWF1dzhUeGJLamIy
+#EXTINF: -1 tvg-id="AstroSuperSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="LIVE:SPORT ", Astro Supersport 1 HD
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142712
+http://zalogitv.tech:8080/live/4587530/7530/6460.ts
