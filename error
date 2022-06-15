@@ -322,8 +322,11 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 https://Astro.kpsboyserver.com/tv3.m3u8
 
+#EXTINF: -1 tvg-id="tv3.my" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 SD BACKUP
+http://iptv12k.com:35461/live/8030615012/555555/5073.ts
+
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP
-http://iptv12k.com:35461/live/8032022060101/452381/5072.ts
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -370,7 +373,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
 
 #EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA HD
-http://iptv12k.com:35461/live/8032022060101/452381/735.ts
+http://iptv12k.com:35461/live/8030615012/555555/735.ts
 
 #EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA HD BACKUP
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
@@ -386,13 +389,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="LIVE:MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA HD
-http://iptv12k.com:35461/live/8032022060101/452381/721.ts
+http://iptv12k.com:35461/live/8030615012/555555/721.ts
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="LIVE:MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA HD BACKUP
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #EXTINF: -1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA HD
-http://iptv12k.com:35461/live/8032022060101/452381/4313.ts
+http://iptv12k.com:35461/live/8030615012/555555/4313.ts
 
 #EXTINF: -1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA HD BACKUP
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
