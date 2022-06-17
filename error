@@ -361,7 +361,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 
 #EXTINF: -1 tvg-id="112" tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV
-http://zalogitv.tech:8080/live/4587530/7530/1828.ts
+https://m3u-editor.com/serve/jackstore/494042875
 
 #EXTINF:-1 tvg-ID="123" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="LIVE:MALAYSIA",AWESOME TV BACKUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
