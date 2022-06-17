@@ -14,11 +14,11 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
  
-#EXTINF:-1 tvg-id="103" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://Astro.kpsboyserver.com/tv3.m3u8
+#EXTINF:-1 tvg-id="103" group-title="LIVE:MYTV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 HD
+https://m3u-editor.com/serve/jackstore/463520517
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 HD BACKUP
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
+http://zalogitv.tech:8080/live/4587530/7530/25788.ts
 
 #EXTINF:-1 tvg-id="106" group-title="LIVE:MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -322,11 +322,11 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://Astro.kpsboyserver.com/tv3.m3u8
+#EXTINF:-1 tvg-id="103" group-title="LIVE:MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3 HD
+https://m3u-editor.com/serve/jackstore/463520517
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 HD BACKUP
-https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142506
+http://zalogitv.tech:8080/live/4587530/7530/25788.ts
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
