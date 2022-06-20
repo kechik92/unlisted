@@ -1,5 +1,5 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=edef8ba979d64acea3c827dcd51d21ed
-#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="LIVE:MALAYSIA",ASTRO PRIMA
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="LIVE:MALAYSIA",PRIMA
 https://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR62XY4uaUm6vZHdo1wG5j0I=WxhZ/dash-wv/jitp-linearwm/1000/default_ott.mpd
 
