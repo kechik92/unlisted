@@ -365,20 +365,18 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
 
-#EXTINF: -1 tvg-id="112" tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a9691440-05e0-11ec-a2da-2bf78b0f1e31/2029889/365282307.jpg" group-title="LIVE:MALAYSIA", AWESOME TV
+#EXTINF: -1 tvg-id="112" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="LIVE:MALAYSIA", AWESOME TV FHD
 https://m3u-editor.com/serve/jackstore/494042875
 
-#EXTINF:-1 tvg-ID="123" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="LIVE:MALAYSIA",AWESOME TV BACKUP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="LIVE:MALAYSIA",AWESOME TV FHD BACKUP
+http://zalogitv.tech:8080/live/4587530/7530/1828.ts
 
 
 #EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA FHD
 http://zalogitv.tech:8080/live/4587530/7530/25740.ts
 
 #EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA FHD BACKUP
-http://iptv12k.com:35461/live/8030615012/555555/735.ts
+https://m3u-editor.com/serve/jackstore/463614330
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -394,13 +392,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 http://zalogitv.tech:8080/live/4587530/7530/26068.ts
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="LIVE:MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA FHD BACKUP
-http://iptv12k.com:35461/live/8030615012/555555/721.ts
+https://m3u-editor.com/serve/jackstore/463614333
 
 #EXTINF: -1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA FHD
 http://zalogitv.tech:8080/live/4587530/7530/25726.ts
 
 #EXTINF: -1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA FHD BACKUP
-http://iptv12k.com:35461/live/8030615012/555555/4313.ts
+https://m3u-editor.com/serve/jackstore/463614332
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
