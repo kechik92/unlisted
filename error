@@ -18,7 +18,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MYTV", TV3 BACKUP
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/1732
 
 #EXTINF:-1 tvg-id="106" group-title="LIVE:MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -328,7 +328,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 #EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="LIVE:MALAYSIA", TV3 BACKUP
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/1732
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" group-title="LIVE:MALAYSIA",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -390,7 +390,7 @@ http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71020
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="LIVE:MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA FHD
-http://zalogitv.tech:8080/live/4587530/7530/26068.ts
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71146
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="LIVE:MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA FHD BACKUP
 https://m3u-editor.com/serve/jackstore/463614333
@@ -1044,6 +1044,9 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE:MOVIE",BOO FHD
 https://m3u-editor.com/serve/jackstore/463614339
+
+#EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE:MOVIE",BOO BACKUP
+http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/1697
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
