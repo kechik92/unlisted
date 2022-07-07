@@ -22,8 +22,8 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" tvg-chno="3" channel-id="3" group-title="📺lιve:мalayѕιa📺",TV3
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
-#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="📺lιve:мalayѕιa📺", TV3 BACKUP
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/1732
+#EXTINF: -1 tvg-id="103" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="📺lιve:мalayѕιa📺", TV3 FHD BACKUP
+https://m3u-editor.com/serve/qwe1234123412/463520516
 
 #EXTINF:-1 tvg-id="106" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
