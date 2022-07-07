@@ -367,23 +367,23 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 
 #EXTINF: -1 tvg-id="112" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="LIVE:MALAYSIA", AWESOME TV FHD
-https://m3u-editor.com/serve/jackstore/494042875
+https://m3u-editor.com/serve/qwe1234123412/463614329
 
 #EXTINF:-1 tvg-ID="123" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="LIVE:MALAYSIA",AWESOME TV FHD BACKUP
-http://zalogitv.tech:8080/live/4587530/7530/1828.ts
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142667
 
 
 #EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA FHD
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/1705
+https://m3u-editor.com/serve/qwe1234123412/463614330
 
 #EXTINF: -1 tvg-id="104" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="LIVE:MALAYSIA", ASTRO RIA FHD BACKUP
-https://m3u-editor.com/serve/jackstore/463614330
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="LIVE:MALAYSIA",ASTRO PRIMA FHD
-https://m3u-editor.com/serve/jackstore/545107064
+https://m3u-editor.com/serve/qwe1234123412/545107064
 
 #EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="LIVE:MALAYSIA",ASTRO PRIMA FHD backup
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71020
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/502338480
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
@@ -391,16 +391,16 @@ http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71020
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="LIVE:MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA FHD
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/71146
+https://m3u-editor.com/serve/qwe1234123412/463614333
 
 #EXTINF:-1 tvg-chno="108" tvg-id="108" group-title="LIVE:MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png", ASTRO CITRA FHD BACKUP
-https://m3u-editor.com/serve/jackstore/463614333
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #EXTINF: -1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA FHD
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/1706
+https://m3u-editor.com/serve/qwe1234123412/463614332
 
 #EXTINF: -1 tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png" group-title="LIVE:MALAYSIA", ASTRO WARNA FHD BACKUP
-https://m3u-editor.com/serve/jackstore/463614332
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a4b24805e598acd00fae76918b3f610&key=1807230578255fcd79e1279b13ae69d8
@@ -1044,10 +1044,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE:MOVIE",BOO FHD
-https://m3u-editor.com/serve/jackstore/463614339
+https://m3u-editor.com/serve/qwe1234123412/463614339
 
 #EXTINF:-1 tvg-id="404" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BOO_v1.png" group-title="LIVE:MOVIE",BOO BACKUP
-http://mvu03.wanicelife.com:8880/SWFAF02492/PKZGBYRS/1697
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142673
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1283d2fab34ca094ab1cfd1238476a10&key=edf87dc4bdc835c6daffdd213c8029df
