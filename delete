@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="411" ch-number="411" group-title="🇲🇾AstroGo : MOVIES" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbohd.png",try
-https://od.lk/s/MzRfMTE1MzEyMjlf/DJ%20DALAMO%20DALAMO%20X%20MELODY%20VIRAL%20JEDAG%20JEDUG%202022%20DANCE.mp4
-
-#EXTINF:-1 tvg-id="411" ch-number="411" group-title="🇲🇾AstroGo : MOVIES" tvg-logo="https://od.lk/s/MzRfMTE1MzEyODhf/ucapan-terima-kasih-untuk-customer.png",try
-https://od.lk/s/MzRfMTE1MzExOThf/Bo%20La%20Duk%20Gewe%20%28Sudah%20lah%20Bercinta%29%20Cover%20by%20Wani%20Kayrie.mp3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=38861cba61c66739c1452c3a71e39852
+#EXTINF:-1 tvg-id="411" ch-number="411" group-title="🇲🇾AstroGo : MOVIES" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbohd.png",prima test
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
