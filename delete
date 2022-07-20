@@ -1,4 +1,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=38861cba61c66739c1452c3a71e39852
-#EXTINF:-1 tvg-id="411" ch-number="411" group-title="🇲🇾AstroGo : MOVIES" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbohd.png",prima test
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=e0fb4b6bf638b44756b6363ffb3db659
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/ria.png" group-title="🇲🇾AstroGo : BAHASA MALAYSIA",Astro Ria HD ubah
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/ria.png" group-title="🇲🇾AstroGo : BAHASA MALAYSIA",Astro Ria HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
